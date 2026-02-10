@@ -21,4 +21,4 @@ It provides insights into total revenue, revenue by order status, and monthly re
 
 ## 👩‍💻 Author
 Krishnendhu P A
-Aspiring Data Analyst
+(Aspiring Data Analyst)
