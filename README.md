@@ -13,7 +13,7 @@ Stakeholders lacked a centralized view to distinguish between "Realized Revenue"
 
 ## 🛠️ Tech Stack & Skills
 * **Data Visualization:** Tableau Public
-* **Data Processing:** Excel (Data cleaning, handling null values, and formatting)
+* **Data Processing:** python (Data cleaning, handling null values, and formatting)
 * **Analysis:** Trend Analysis, Categorical Breakdown, KPI Tracking
 
 
@@ -27,7 +27,7 @@ Stakeholders lacked a centralized view to distinguish between "Realized Revenue"
 ---
 
 ## 🖼️ Dashboard Preview
-[View Interactive Dashboard on Tableau Public](INSERT_YOUR_LINK_HERE)
+[View Interactive Dashboard on Tableau Public]("C:\internship\project2\sales-perfomance-dashboard.twbx")
 
 ---
 
