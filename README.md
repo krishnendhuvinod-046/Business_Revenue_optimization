@@ -1,5 +1,5 @@
 # 📊 Business Revenue Optimization Dashboard
-An interactive Tableau solution for monitoring sales health and order fulfillment efficiency.
+An interactive Tableau solution for monitoring sales and order fulfillment efficiency.
 
 ---
 
