@@ -15,7 +15,7 @@ Stakeholders lacked a centralized view to distinguish between "Realized Revenue"
 * **Data Visualization:** Tableau Public
 * **Data Processing:** Excel (Data cleaning, handling null values, and formatting)
 * **Analysis:** Trend Analysis, Categorical Breakdown, KPI Tracking
-* **Design:** User-Centric Dashboard Design (UI/UX)
+
 
 ---
 
