@@ -27,7 +27,7 @@ Stakeholders lacked a centralized view to distinguish between "Realized Revenue"
 ---
 
 ## 🖼️ Dashboard Preview
-[View Interactive Dashboard on Tableau Public]()
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/krishnendhu.p.a/viz/sales-perfomance-dashboard/Dashboard1?publish=yes)
 
 ---
 
